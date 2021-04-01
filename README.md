@@ -11,7 +11,7 @@
 - Full-Stack Javascript Developer;
 
 ### Technologies of interest
-
+![Typescript](https://img.shields.io/badge/-Typescript-0085d2?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
 ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
